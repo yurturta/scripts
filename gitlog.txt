@@ -1,0 +1,23 @@
+commit 993c7c930e672df6c8d6caf3981763f37a919863
+Author: yurturta <yurturta@gmail.com>
+Date:   Fri Jan 24 22:45:06 2020 +0100
+
+    added gitignore
+
+commit 489f29a9e79ab2ede6b2929dccdddc804c9d58a6
+Author: yurturta <yurturta@gmail.com>
+Date:   Fri Jan 24 22:40:03 2020 +0100
+
+    multarg tmif added
+
+commit 1db1b6abdb1e15f4b7c776d6f6399d574bfb9083
+Author: yurturta <yurturta@gmail.com>
+Date:   Fri Jan 24 22:35:34 2020 +0100
+
+    added two files
+
+commit 83221af6bb500a314d732d21ad396ca91c9c7880
+Author: yurturta <yurturta@gmail.com>
+Date:   Fri Jan 24 22:08:16 2020 +0100
+
+    Bash training functions
