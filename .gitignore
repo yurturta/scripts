@@ -1,4 +1,4 @@
 *.jpg
 .DS_Store
-Web/dhurimkelmendi*
-Clones*
+Web/dhur*
+Clones/*
