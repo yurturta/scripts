@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-DIR=/Users/yurtaturta/Downloads/files
+DIR=/Users/Downloads/files
 IPFILE="$1"
 USERNAME="$2"
 PASSWORD="$3"
